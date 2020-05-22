@@ -1,0 +1,17 @@
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\FinalProject.exe.config
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\FinalProject.exe
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\FinalProject.pdb
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\MySql.Data.dll
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\Google.Protobuf.dll
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\Renci.SshNet.dll
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\bin\Release\MySql.Data.xml
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.csprojAssemblyReference.cache
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.Form1.resources
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.Form2.resources
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.Form3.resources
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.Properties.Resources.resources
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.csproj.GenerateResource.cache
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.csproj.CopyComplete
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.exe
+C:\Users\Sercan\source\repos\FinalProject\FinalProject\obj\Release\FinalProject.pdb
